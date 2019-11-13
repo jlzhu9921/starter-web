@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jialu Zhu   jzhu@conservice.com @jialu_zhu
 
 # THANKS
 
