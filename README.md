@@ -9,3 +9,5 @@ This is a simple website project for showing how to use Git AND gITHUBTOGETHER.
 ##Deployment
 
 ##How To Contribute
+
+2019 Jialu Zhu
