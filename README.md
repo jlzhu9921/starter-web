@@ -12,4 +12,4 @@ This is a simple website project for showing how to use Git AND gITHUBTOGETHER. 
 ##How To Contribute
 please fork this repository and then issue pull for review.
 
-2019 Jialu Zhu
+2019 Jialu Zhu  All rights reserved.
